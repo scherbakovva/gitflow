@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello, Brave New World!
+=======
+hello, world
+>>>>>>> parent of c43680e (Changed hello_file.txt)
